@@ -2,15 +2,17 @@
 
 ## INSPIRATION
 
-According to Philly By Air, at the end of 2019 there were 990,000 recreational operators registered and an estimated 1.32 million recreational drones in the United States. Insider Intelligence expects sales of drones to top $12 billion in 2021. However, there isn't much of an online community for these users to access and communicate. As an individual that is passionate about drone usage and video sharing, I wanted to create a platform where drone users can come and share content.
+During the Covid-19 pandemic, I realized a lot of people, myself included, were feeling stressed and overwhelmed by everything that was going on. Stress can affect the immune system, so taking steps to reduce your stress in a healthy way is important.
+
+One way to lessen worry is to ground yourself in the present moment through mindfulness. Mindfulness is a great technique that can help reduce stress during challenging times. You can practice mindfulness by sitting quietly and focusing on your breathing and senses. This is where this app comes in. 
 
 ## WHAT IT DOES
 
-Drone Dock is a platform that uses creativity to inspire people of all ages to share their drone footage. Anyone can create an account and start discovering videos from other users and also explore popular drone spots in their area. Each account has a profile, home page to create and store footage logs, and also a page to watch videos.
+Mindful Meditation is an online app that helps people of all ages to relax by timed breathing training. Anyone can access it through a simple click and start meditating.
 
 ## WHAT'S NEXT
 
-We plan to build out more features of our application including filters, search bars, progress bars, etc. and ultimately deploy the application to the Web. After doing so, we want to promote our platform to users interested in drones, so that we can grow our community around the world.
+I plan to build out more features of the application so that individuals can access articles and videos that discusses stress management. Additionally, I want to add music either on the platform or links so that individuals can easily change the background music to free themselves from distraction and to increase relaxation. After adding these features, I want to promote the platform to users seeking an app to reduce stress, so that it can benefit individuals across the globe. 
 
 ### Built by 
 * [Winston Chen](https://www.linkedin.com/in/winston-c/)
